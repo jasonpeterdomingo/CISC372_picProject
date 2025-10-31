@@ -1,0 +1,10 @@
+Script started on Fri Oct 31 17:52:19 2025
+^[]0;jayprdom@r1n06.darwin:~/CISC372_picProject^G^[[?1034h[jayprdom@r1n06 CISC372_picProject]$ export OMP_NUM_THREADA^H ^HS=4^M
+^[]0;jayprdom@r1n06.darwin:~/CISC372_picProject^G[jayprdom@r1n06 CISC372_picProject]$ srun ./image_openmp pic1.jpg edge^M
+Took 7 seconds^M
+^[]0;jayprdom@r1n06.darwin:~/CISC372_picProject^G[jayprdom@r1n06 CISC372_picProject]$ ./image_pthread pic1.jpg edge^M
+Took 7 seconds^M
+^[]0;jayprdom@r1n06.darwin:~/CISC372_picProject^G[jayprdom@r1n06 CISC372_picProject]$ exti^H ^H^H ^Hit^M
+exit^M
+
+Script done on Fri Oct 31 17:54:15 2025
